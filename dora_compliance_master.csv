@@ -1,0 +1,39 @@
+Requirement_ID,Domain,Requirement_Title,Status,Evidence_Status,Risk_Level,Owner_Team
+DORA-1.1,ICT Risk Management,ICT Risk Management Framework documented,Fully Compliant,Verified,Low,GRC & Security
+DORA-1.2,ICT Risk Management,Continuous asset mapping & identification,Partially Compliant,In Review,Medium,Infra & Sec
+DORA-1.3,ICT Risk Management,Annual review of ICT risk policies,Fully Compliant,Verified,Low,GRC & Security
+DORA-1.4,ICT Risk Management,Legacy system risk assessment,Non-Compliant,Missing,Critical,Enterprise Arch
+DORA-1.5,ICT Risk Management,Cryptographic controls & key management,Partially Compliant,In Review,High,Infra & Sec
+DORA-1.6,ICT Risk Management,Access control & identity management policy,Fully Compliant,Verified,Low,IAM Team
+DORA-1.7,ICT Risk Management,Multi-factor authentication (MFA) enforcement,Fully Compliant,Verified,Low,IAM Team
+DORA-1.8,ICT Risk Management,Network segmentation between prod/non-prod,Partially Compliant,In Review,Medium,Network Sec
+DORA-1.9,ICT Risk Management,Patch management SLA enforcement,Non-Compliant,Missing,High,Infra & Sec
+DORA-1.10,ICT Risk Management,Data loss prevention (DLP) monitoring,Non-Compliant,Missing,High,AppSec
+DORA-2.1,ICT Incident Management,ICT Incident classification methodology,Fully Compliant,Verified,Low,SOC Team
+DORA-2.2,ICT Incident Management,Major incident notification to regulator (<2h),Non-Compliant,Missing,Critical,Regulatory Compliance
+DORA-2.3,ICT Incident Management,Centralized incident logging & SIEM integration,Fully Compliant,Verified,Low,SOC Team
+DORA-2.4,ICT Incident Management,Post-incident root cause analysis process,Partially Compliant,In Review,Medium,SOC Team
+DORA-2.5,ICT Incident Management,Crisis communication plan with stakeholders,Fully Compliant,Verified,Low,Corp Comms
+DORA-2.6,ICT Incident Management,Customer notification process for major incidents,Partially Compliant,In Review,High,Customer Operations
+DORA-2.7,ICT Incident Management,Incident response playbooks for ransomware,Non-Compliant,Missing,Critical,SOC Team
+DORA-2.8,ICT Incident Management,Anomalous behavior detection mechanisms,Fully Compliant,Verified,Low,SOC Team
+DORA-3.1,Digital Operational Resilience Testing,Annual vulnerability scanning program,Fully Compliant,Verified,Low,AppSec
+DORA-3.2,Digital Operational Resilience Testing,Threat-Led Penetration Testing (TLPT),Non-Compliant,Missing,Critical,Red Team
+DORA-3.3,Digital Operational Resilience Testing,Independent testing of critical ICT tools,Partially Compliant,In Review,High,Audit Team
+DORA-3.4,Digital Operational Resilience Testing,Source code security review integration,Fully Compliant,Verified,Low,DevSecOps
+DORA-3.5,Digital Operational Resilience Testing,Disaster recovery plan dry-run testing,Partially Compliant,In Review,Medium,BCP Team
+DORA-3.6,Digital Operational Resilience Testing,Backup restoration verification testing,Non-Compliant,Missing,Critical,Infra & Sec
+DORA-3.7,Digital Operational Resilience Testing,Third-party penetration testing validation,Partially Compliant,In Review,Medium,TPRM Team
+DORA-3.8,Digital Operational Resilience Testing,Red team scenario exercises,Non-Compliant,Missing,High,Red Team
+DORA-4.1,Third-Party Risk Management,Register of Information (RoI) for ICT vendors,Partially Compliant,In Review,High,TPRM Team
+DORA-4.2,Third-Party Risk Management,Critical vendor concentration risk assessment,Non-Compliant,Missing,Critical,TPRM Team
+DORA-4.3,Third-Party Risk Management,Subcontracting chain risk monitoring,Non-Compliant,Missing,High,TPRM Team
+DORA-4.4,Third-Party Risk Management,Mandatory DORA clauses in vendor contracts,Partially Compliant,In Review,High,Legal & Procurement
+DORA-4.5,Third-Party Risk Management,Vendor exit strategy & transition plans,Non-Compliant,Missing,Critical,TPRM Team
+DORA-4.6,Third-Party Risk Management,Annual performance audit of critical vendors,Fully Compliant,Verified,Low,TPRM Team
+DORA-4.7,Third-Party Risk Management,SLA monitoring for critical ICT services,Fully Compliant,Verified,Low,Vendor Management
+DORA-4.8,Third-Party Risk Management,Vendor security questionnaire automation,Partially Compliant,In Review,Medium,TPRM Team
+DORA-5.1,Information Sharing,Threat intelligence sharing participation,Fully Compliant,Verified,Low,Threat Intel
+DORA-5.2,Information Sharing,Internal threat intelligence distribution,Fully Compliant,Verified,Low,Threat Intel
+DORA-5.3,Information Sharing,Peer-to-peer IoC exchange mechanism,Partially Compliant,In Review,Medium,Threat Intel
+DORA-5.4,Information Sharing,Regulatory cyber threat reporting,Fully Compliant,Verified,Low,Regulatory Compliance
