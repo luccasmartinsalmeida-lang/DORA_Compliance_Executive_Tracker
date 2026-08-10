@@ -1,4 +1,14 @@
-# DORA Compliance Tracker & Executive Dashboard
+
+# DORA Compliance Tracker & Risk Management
+
+This repository contains tools to process EU DORA compliance data and generate risk trackers.
+
+> **Developer Note:** 
+> Looking for a raw, lightweight, and 100% plain Python/Pandas implementation without any reporting bloat or heavy formatting? 
+> Check out `dora_tracker_fast.py`. It focuses purely on speed, vectorization, and clean data extraction with zero external styling dependencies.
+
+## 🚀 How to Run
+...
 
 Just a quick Python script I put together to help track compliance for the EU Digital Operational Resilience Act (DORA). 
 
