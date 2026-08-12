@@ -16,7 +16,7 @@ Instead of doing manual formatting in Excel every time a new assessment comes in
 
 - Builds a summary tab with KPIs (Overall Compliance Rate, gaps vs compliant count)
 - Generates native Excel charts (pie chart for status breakdown and column chart by domain)
-- Outputs a master list with status badges (green/yellow/red) for all 38 controls
+- Outputs a master list with status badges (green/yellow/red) for all 40 controls
 - Filters out urgent remediation gaps into a separate tab so team leads can focus on Critical/High risk failures first
 
 ## DORA Domains Covered
